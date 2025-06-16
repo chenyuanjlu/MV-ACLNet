@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+outputs/
+gradcam_outputs/
+split_results/
+
+
